@@ -105,3 +105,14 @@ body {
 .button:focus-visible {
   background: var(--gradient-primary);
 }
+
+.result-summary {
+  max-width: 46rem;
+  display: grid;
+}
+
+@media (min-width: 600px) {
+  .result-summary {
+    grid-template-columns: 1fr 1fr;
+  }
+}
