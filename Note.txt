@@ -1,0 +1,7 @@
+From Design to Code // HTML & CSS from scratch // Frontend Mentor (https://www.youtube.com/watch?v=KqFAs5d3Yl8)
+
+https://github.com/kevin-powell/results-summary-component-main
+https://github.com/Annie-Huang/results-summary-component
+
+https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV
+----------------------------------------------------------------------------------
