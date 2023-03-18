@@ -189,9 +189,12 @@ body {
   align-items: center;
   padding: 1rem;
   border-radius: 0.5rem;
-  background-color: lightblue;
+  background-color: hsl(var(--item-color), 0.1);
 }
 
 .summary-item svg {
-  stroke: red;
+  stroke: hsl(var(--item-color));
+}
+.summary-item[data-item-type='accent-1'] {
+  --item-color: var(--clr-accent-1);
 }
