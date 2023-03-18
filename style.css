@@ -195,6 +195,12 @@ body {
 .summary-item svg {
   stroke: hsl(var(--item-color));
 }
+
+.summary-item-title {
+  color: hsl(var(--item-color));
+  font-weight: var(--fw-bold);
+}
+
 .summary-item[data-item-type='accent-1'] {
   --item-color: var(--clr-accent-1);
 }
