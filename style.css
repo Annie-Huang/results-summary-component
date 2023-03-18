@@ -86,6 +86,13 @@ body {
   }
 }
 
+.flex-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
 .grid-flow {
   display: grid;
   align-content: start;
